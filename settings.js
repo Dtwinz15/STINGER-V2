@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348187637779"
-global.ownername = "ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑"
+global.ownernomer = "2347019170750"
+global.ownername = "IMMORTAL"
 global.ytname = "YT: paskito"
 global.socialm = "GitHub: paskito002"
-global.location = "Nigeria,Cross River,Calabar"
+global.location = "UK"
 
-global.ownernumber = '2348187637779'  //creator number
-global.ownername = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑' //owner name
+global.ownernumber = '2347019170750'  //creator number
+global.ownername = 'IMMORTAL' //owner name
 global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑\n\nContact: +2348187637779'
+global.author = 'IMMORTAL\n\nContact: +2347019170750'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -60,12 +60,12 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: 'Done !',
     prem: 'Stinger-V2 can be used by premium user only',
-    admin: 'Stinger-V2 can be used by ES TEAMS only',
+    admin: 'Stinger-V2 can be used by IMMORTAL only',
     botAdmin: 'Stinger-V2 can only be used when the bot is a group admin ',
-    owner: 'Stinger-V2 can be used by  ES TEAMS only',
+    owner: 'Stinger-V2 can be used by  IMMORTAL only',
     group: 'Stinger-V2 is only for groups',
     private: 'Stinger-V2  is only for private chats',
-    wait: 'Es Teams is processing your request 😘... ',    
+    wait: 'Chill IMMORTAL is processing your request 😘... ',    
     error: 'Error!',
 }
 
